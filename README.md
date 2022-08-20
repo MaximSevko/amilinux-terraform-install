@@ -1,1 +1,1 @@
-# amilinux-terraform-install
+# terraform-install
